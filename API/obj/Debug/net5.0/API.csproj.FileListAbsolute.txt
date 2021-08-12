@@ -63,3 +63,5 @@ D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API
 D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API\obj\Debug\net5.0\ref\API.dll
 D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API\obj\Debug\net5.0\API.pdb
 D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Cursos\Learn to build an e-commerce app with .Net Core and Angular\Skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
